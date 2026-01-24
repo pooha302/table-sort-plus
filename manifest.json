@@ -21,7 +21,9 @@
         "64": "icons/icon64.png",
         "128": "icons/icon128.png"
     },
-    "permissions": [],
+    "permissions": [
+        "activeTab"
+    ],
     "content_scripts": [
         {
             "matches": [
