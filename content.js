@@ -17,7 +17,9 @@ const initTableSorter = () => {
                 if (!hasTableSorter) {
                     // Apply tablesorter to the table
                     try {
-                        $table.addClass('tablesorter').tablesorter();
+                        $table.addClass('tablesorter').tablesorter({
+                            theme: ""
+                        });
                         console.log('%c Tablesorter applied successfully!', 'color: #00ff88; font-weight: bold;');
                     } catch (error) {
                         console.error('Failed to apply tablesorter:', error);

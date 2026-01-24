@@ -28,7 +28,7 @@
                 "<all_urls>"
             ],
             "css": [
-                "lib/theme.default.min.css"
+                "lib/theme.minimal.css"
             ],
             "js": [
                 "lib/jquery.min.js",
