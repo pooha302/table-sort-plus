@@ -1,6 +1,11 @@
-# TableSort+ v1.1.0
+# TableSort+
 
 A modern, premium browser extension (Chrome/Firefox) that adds instant table sorting to any webpage.
+
+## Download
+- **Chrome**: [Chrome Web Store](https://chromewebstore.google.com/detail/tablesort+/igmapojlpdbnaagdpmcmbhojjemliecp?authuser=0&hl=ko)
+- **Firefox**: [Firefox Add-ons](https://addons.mozilla.org/ko/firefox/addon/tablesortplus/)
+
 
 ## Features
 - **Manifest V3**: Follows the latest browser extension standards.
